@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\obj\Debug\net8.0\01HelloWorldADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\obj\Debug\net8.0\01HelloWorldADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\obj\Debug\net8.0\01HelloWorldADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\obj\Debug\net8.0\01HelloWorldADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\obj\Debug\net8.0\01HelloWorldADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\bin\Debug\net8.0\01HelloWorldADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\bin\Debug\net8.0\01HelloWorldADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\bin\Debug\net8.0\01HelloWorldADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\bin\Debug\net8.0\01HelloWorldADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\bin\Debug\net8.0\01HelloWorldADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\obj\Debug\net8.0\01HelloWorldADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\obj\Debug\net8.0\refint\01HelloWorldADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\obj\Debug\net8.0\01HelloWorldADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\obj\Debug\net8.0\01HelloWorldADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorldADI\obj\Debug\net8.0\ref\01HelloWorldADI.dll

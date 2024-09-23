@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\bin\Debug\net8.0\01HelloWorld-DSPS.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\bin\Debug\net8.0\01HelloWorld-DSPS.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\bin\Debug\net8.0\01HelloWorld-DSPS.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\bin\Debug\net8.0\01HelloWorld-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\bin\Debug\net8.0\01HelloWorld-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\obj\Debug\net8.0\01HelloWorld-DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\obj\Debug\net8.0\01HelloWorld-DSPS.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\obj\Debug\net8.0\01HelloWorld-DSPS.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\obj\Debug\net8.0\01HelloWorld-DSPS.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\obj\Debug\net8.0\01HelloWorld-DSPS.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\obj\Debug\net8.0\01HelloWorld-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\obj\Debug\net8.0\refint\01HelloWorld-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\obj\Debug\net8.0\01HelloWorld-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\obj\Debug\net8.0\01HelloWorld-DSPS.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\01HelloWorld-DSPS\obj\Debug\net8.0\ref\01HelloWorld-DSPS.dll
