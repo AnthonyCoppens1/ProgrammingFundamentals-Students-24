@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\bin\Debug\net8.0\02InputOutput-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\bin\Debug\net8.0\02InputOutput-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\bin\Debug\net8.0\02InputOutput-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\bin\Debug\net8.0\02InputOutput-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\bin\Debug\net8.0\02InputOutput-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\obj\Debug\net8.0\02InputOutput-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\obj\Debug\net8.0\02InputOutput-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\obj\Debug\net8.0\02InputOutput-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\obj\Debug\net8.0\02InputOutput-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\obj\Debug\net8.0\02InputOutput-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\obj\Debug\net8.0\02InputOutput-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\obj\Debug\net8.0\refint\02InputOutput-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\obj\Debug\net8.0\02InputOutput-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\obj\Debug\net8.0\02InputOutput-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02InputOutput-DSPSa\obj\Debug\net8.0\ref\02InputOutput-DSPSa.dll
