@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\bin\Debug\net8.0\02Variabelen-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\bin\Debug\net8.0\02Variabelen-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\bin\Debug\net8.0\02Variabelen-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\bin\Debug\net8.0\02Variabelen-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\bin\Debug\net8.0\02Variabelen-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\obj\Debug\net8.0\02Variabelen-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\obj\Debug\net8.0\02Variabelen-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\obj\Debug\net8.0\02Variabelen-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\obj\Debug\net8.0\02Variabelen-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\obj\Debug\net8.0\02Variabelen-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\obj\Debug\net8.0\02Variabelen-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\obj\Debug\net8.0\refint\02Variabelen-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\obj\Debug\net8.0\02Variabelen-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\obj\Debug\net8.0\02Variabelen-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week02\02Variabelen-ADI\obj\Debug\net8.0\ref\02Variabelen-ADI.dll
