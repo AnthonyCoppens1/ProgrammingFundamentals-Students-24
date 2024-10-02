@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\bin\Debug\net8.0\03IfStatement-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\bin\Debug\net8.0\03IfStatement-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\bin\Debug\net8.0\03IfStatement-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\bin\Debug\net8.0\03IfStatement-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\bin\Debug\net8.0\03IfStatement-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\obj\Debug\net8.0\03IfStatement-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\obj\Debug\net8.0\03IfStatement-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\obj\Debug\net8.0\03IfStatement-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\obj\Debug\net8.0\03IfStatement-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\obj\Debug\net8.0\03IfStatement-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\obj\Debug\net8.0\03IfStatement-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\obj\Debug\net8.0\refint\03IfStatement-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\obj\Debug\net8.0\03IfStatement-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\obj\Debug\net8.0\03IfStatement-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-DSPSa\obj\Debug\net8.0\ref\03IfStatement-DSPSa.dll
