@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\bin\Debug\net8.0\03IfStatement-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\bin\Debug\net8.0\03IfStatement-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\bin\Debug\net8.0\03IfStatement-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\bin\Debug\net8.0\03IfStatement-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\bin\Debug\net8.0\03IfStatement-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\obj\Debug\net8.0\03IfStatement-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\obj\Debug\net8.0\03IfStatement-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\obj\Debug\net8.0\03IfStatement-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\obj\Debug\net8.0\03IfStatement-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\obj\Debug\net8.0\03IfStatement-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\obj\Debug\net8.0\03IfStatement-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\obj\Debug\net8.0\refint\03IfStatement-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\obj\Debug\net8.0\03IfStatement-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\obj\Debug\net8.0\03IfStatement-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week03\03IfStatement-ADI\obj\Debug\net8.0\ref\03IfStatement-ADI.dll
