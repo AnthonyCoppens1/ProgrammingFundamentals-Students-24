@@ -16,11 +16,6 @@ namespace _03Hittegold_ADI
             double dag4 = Convert.ToDouble(Console.ReadLine());
             double dag5 = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("test");
-            Console.Write("hello");
-            Console.WriteLine("2e test");
-
-
             if (dag1 >= 25 && dag2 >= 25 && dag3 >= 25 && dag4 >= 25 && dag5 >= 25)
             {
                 
