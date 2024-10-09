@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04WHILE-DSPSa", "04WHILE-DSPSa.csproj", "{F4B501E2-FA1D-4616-8227-146A5C908900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B501E2-FA1D-4616-8227-146A5C908900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B501E2-FA1D-4616-8227-146A5C908900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B501E2-FA1D-4616-8227-146A5C908900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B501E2-FA1D-4616-8227-146A5C908900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F65E6B-3925-4923-8AD9-F5B9ED0016D3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\bin\Debug\net8.0\04Pyramids-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\bin\Debug\net8.0\04Pyramids-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\bin\Debug\net8.0\04Pyramids-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\bin\Debug\net8.0\04Pyramids-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\bin\Debug\net8.0\04Pyramids-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\obj\Debug\net8.0\04Pyramids-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\obj\Debug\net8.0\04Pyramids-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\obj\Debug\net8.0\04Pyramids-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\obj\Debug\net8.0\04Pyramids-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\obj\Debug\net8.0\04Pyramids-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\obj\Debug\net8.0\04Pyramids-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\obj\Debug\net8.0\refint\04Pyramids-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\obj\Debug\net8.0\04Pyramids-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\obj\Debug\net8.0\04Pyramids-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Pyramids-DSPSa\obj\Debug\net8.0\ref\04Pyramids-DSPSa.dll
