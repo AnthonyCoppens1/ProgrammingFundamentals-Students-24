@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\bin\Debug\net8.0\04Week3Herhaling-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\bin\Debug\net8.0\04Week3Herhaling-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\bin\Debug\net8.0\04Week3Herhaling-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\bin\Debug\net8.0\04Week3Herhaling-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\bin\Debug\net8.0\04Week3Herhaling-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\obj\Debug\net8.0\04Week3Herhaling-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\obj\Debug\net8.0\04Week3Herhaling-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\obj\Debug\net8.0\04Week3Herhaling-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\obj\Debug\net8.0\04Week3Herhaling-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\obj\Debug\net8.0\04Week3Herhaling-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\obj\Debug\net8.0\04Week3Herhaling-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\obj\Debug\net8.0\refint\04Week3Herhaling-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\obj\Debug\net8.0\04Week3Herhaling-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\obj\Debug\net8.0\04Week3Herhaling-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week04\04Week3Herhaling-ADI\obj\Debug\net8.0\ref\04Week3Herhaling-ADI.dll

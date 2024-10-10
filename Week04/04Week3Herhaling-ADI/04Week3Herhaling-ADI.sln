@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Week3Herhaling-ADI", "04Week3Herhaling-ADI.csproj", "{42C4FF8B-EADA-4F00-92AC-488E6C710CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C4FF8B-EADA-4F00-92AC-488E6C710CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C4FF8B-EADA-4F00-92AC-488E6C710CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C4FF8B-EADA-4F00-92AC-488E6C710CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C4FF8B-EADA-4F00-92AC-488E6C710CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CE1986D-246E-409A-B309-F695450BE360}
+	EndGlobalSection
+EndGlobal

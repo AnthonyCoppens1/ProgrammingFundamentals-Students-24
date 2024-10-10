@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04Pyramids-DSPSa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfbec033ee396ba19a03498d7214ba40b5cb5ce5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b27da94a0894c1e1317572c4f01285c71437fdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("04Pyramids-DSPSa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04Pyramids-DSPSa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
