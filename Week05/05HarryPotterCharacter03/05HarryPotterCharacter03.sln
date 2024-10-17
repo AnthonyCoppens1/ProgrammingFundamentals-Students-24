@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05HarryPotterCharacter03", "05HarryPotterCharacter03.csproj", "{4215A41C-C2FA-48A3-9C7D-5DF86F470348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4215A41C-C2FA-48A3-9C7D-5DF86F470348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4215A41C-C2FA-48A3-9C7D-5DF86F470348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4215A41C-C2FA-48A3-9C7D-5DF86F470348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4215A41C-C2FA-48A3-9C7D-5DF86F470348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B70479BE-0730-4F23-80B7-385A0A25C5E7}
+	EndGlobalSection
+EndGlobal

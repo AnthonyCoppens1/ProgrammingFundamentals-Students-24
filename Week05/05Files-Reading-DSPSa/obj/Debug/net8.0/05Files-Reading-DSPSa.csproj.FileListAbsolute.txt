@@ -1,0 +1,16 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\bin\Debug\net8.0\Rapunzel.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\bin\Debug\net8.0\05Files-Reading-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\bin\Debug\net8.0\05Files-Reading-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\bin\Debug\net8.0\05Files-Reading-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\bin\Debug\net8.0\05Files-Reading-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\bin\Debug\net8.0\05Files-Reading-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\obj\Debug\net8.0\05Files-Reading-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\obj\Debug\net8.0\05Files-Reading-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\obj\Debug\net8.0\05Files-Reading-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\obj\Debug\net8.0\05Files-Reading-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\obj\Debug\net8.0\05Files-Reading-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\obj\Debug\net8.0\05Files-Reading-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\obj\Debug\net8.0\refint\05Files-Reading-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\obj\Debug\net8.0\05Files-Reading-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\obj\Debug\net8.0\05Files-Reading-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Files-Reading-DSPSa\obj\Debug\net8.0\ref\05Files-Reading-DSPSa.dll

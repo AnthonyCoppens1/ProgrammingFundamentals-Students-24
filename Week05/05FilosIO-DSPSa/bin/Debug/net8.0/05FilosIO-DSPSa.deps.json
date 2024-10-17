@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "05FilosIO-DSPSa/1.0.0": {
+        "runtime": {
+          "05FilosIO-DSPSa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05FilosIO-DSPSa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\bin\Debug\net8.0\Rapunzel.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\bin\Debug\net8.0\05Rapunzel01-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\bin\Debug\net8.0\05Rapunzel01-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\bin\Debug\net8.0\05Rapunzel01-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\bin\Debug\net8.0\05Rapunzel01-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\bin\Debug\net8.0\05Rapunzel01-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\obj\Debug\net8.0\05Rapunzel01-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\obj\Debug\net8.0\05Rapunzel01-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\obj\Debug\net8.0\05Rapunzel01-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\obj\Debug\net8.0\05Rapunzel01-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\obj\Debug\net8.0\05Rapunzel01-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\obj\Debug\net8.0\05Rapunzel01-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\obj\Debug\net8.0\refint\05Rapunzel01-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\obj\Debug\net8.0\05Rapunzel01-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\obj\Debug\net8.0\05Rapunzel01-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05Rapunzel01-DSPSa\obj\Debug\net8.0\ref\05Rapunzel01-DSPSa.dll

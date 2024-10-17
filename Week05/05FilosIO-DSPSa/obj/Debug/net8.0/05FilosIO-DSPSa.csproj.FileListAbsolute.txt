@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\bin\Debug\net8.0\05FilosIO-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\bin\Debug\net8.0\05FilosIO-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\bin\Debug\net8.0\05FilosIO-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\bin\Debug\net8.0\05FilosIO-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\bin\Debug\net8.0\05FilosIO-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\obj\Debug\net8.0\05FilosIO-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\obj\Debug\net8.0\05FilosIO-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\obj\Debug\net8.0\05FilosIO-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\obj\Debug\net8.0\05FilosIO-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\obj\Debug\net8.0\05FilosIO-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\obj\Debug\net8.0\05FilosIO-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\obj\Debug\net8.0\refint\05FilosIO-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\obj\Debug\net8.0\05FilosIO-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\obj\Debug\net8.0\05FilosIO-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\05FilosIO-DSPSa\obj\Debug\net8.0\ref\05FilosIO-DSPSa.dll

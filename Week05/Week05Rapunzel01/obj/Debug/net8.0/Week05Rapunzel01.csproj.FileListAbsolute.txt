@@ -1,0 +1,16 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\bin\Debug\net8.0\Rapunzel.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\bin\Debug\net8.0\Week05Rapunzel01.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\bin\Debug\net8.0\Week05Rapunzel01.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\bin\Debug\net8.0\Week05Rapunzel01.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\bin\Debug\net8.0\Week05Rapunzel01.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\bin\Debug\net8.0\Week05Rapunzel01.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\obj\Debug\net8.0\Week05Rapunzel01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\obj\Debug\net8.0\Week05Rapunzel01.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\obj\Debug\net8.0\Week05Rapunzel01.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\obj\Debug\net8.0\Week05Rapunzel01.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\obj\Debug\net8.0\Week05Rapunzel01.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\obj\Debug\net8.0\Week05Rapunzel01.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\obj\Debug\net8.0\refint\Week05Rapunzel01.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\obj\Debug\net8.0\Week05Rapunzel01.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\obj\Debug\net8.0\Week05Rapunzel01.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05Rapunzel01\obj\Debug\net8.0\ref\Week05Rapunzel01.dll
