@@ -1,0 +1,16 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\bin\Debug\net8.0\Characters.csv
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\bin\Debug\net8.0\Week05HarryPotter03.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\bin\Debug\net8.0\Week05HarryPotter03.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\bin\Debug\net8.0\Week05HarryPotter03.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\bin\Debug\net8.0\Week05HarryPotter03.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\bin\Debug\net8.0\Week05HarryPotter03.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\obj\Debug\net8.0\Week05HarryPotter03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\obj\Debug\net8.0\Week05HarryPotter03.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\obj\Debug\net8.0\Week05HarryPotter03.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\obj\Debug\net8.0\Week05HarryPotter03.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\obj\Debug\net8.0\Week05HarryPotter03.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\obj\Debug\net8.0\Week05HarryPotter03.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\obj\Debug\net8.0\refint\Week05HarryPotter03.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\obj\Debug\net8.0\Week05HarryPotter03.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\obj\Debug\net8.0\Week05HarryPotter03.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05HarryPotter03\obj\Debug\net8.0\ref\Week05HarryPotter03.dll

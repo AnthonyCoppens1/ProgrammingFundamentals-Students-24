@@ -1,0 +1,16 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\bin\Debug\net8.0\Rapunzel.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\bin\Debug\net8.0\Week05ReadingFiles-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\bin\Debug\net8.0\Week05ReadingFiles-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\bin\Debug\net8.0\Week05ReadingFiles-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\bin\Debug\net8.0\Week05ReadingFiles-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\bin\Debug\net8.0\Week05ReadingFiles-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\obj\Debug\net8.0\Week05ReadingFiles-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\obj\Debug\net8.0\Week05ReadingFiles-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\obj\Debug\net8.0\Week05ReadingFiles-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\obj\Debug\net8.0\Week05ReadingFiles-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\obj\Debug\net8.0\Week05ReadingFiles-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\obj\Debug\net8.0\Week05ReadingFiles-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\obj\Debug\net8.0\refint\Week05ReadingFiles-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\obj\Debug\net8.0\Week05ReadingFiles-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\obj\Debug\net8.0\Week05ReadingFiles-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05ReadingFiles-DSPSb\obj\Debug\net8.0\ref\Week05ReadingFiles-DSPSb.dll

@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\bin\Debug\net8.0\Week05FilesIO-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\bin\Debug\net8.0\Week05FilesIO-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\bin\Debug\net8.0\Week05FilesIO-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\bin\Debug\net8.0\Week05FilesIO-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\bin\Debug\net8.0\Week05FilesIO-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\obj\Debug\net8.0\Week05FilesIO-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\obj\Debug\net8.0\Week05FilesIO-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\obj\Debug\net8.0\Week05FilesIO-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\obj\Debug\net8.0\Week05FilesIO-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\obj\Debug\net8.0\Week05FilesIO-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\obj\Debug\net8.0\Week05FilesIO-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\obj\Debug\net8.0\refint\Week05FilesIO-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\obj\Debug\net8.0\Week05FilesIO-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\obj\Debug\net8.0\Week05FilesIO-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week05\Week05FilesIO-DSPSb\obj\Debug\net8.0\ref\Week05FilesIO-DSPSb.dll
