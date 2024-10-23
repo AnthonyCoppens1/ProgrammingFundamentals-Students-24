@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\bin\Debug\net8.0\Week06Array1D-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\bin\Debug\net8.0\Week06Array1D-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\bin\Debug\net8.0\Week06Array1D-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\bin\Debug\net8.0\Week06Array1D-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\bin\Debug\net8.0\Week06Array1D-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\obj\Debug\net8.0\Week06Array1D-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\obj\Debug\net8.0\Week06Array1D-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\obj\Debug\net8.0\Week06Array1D-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\obj\Debug\net8.0\Week06Array1D-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\obj\Debug\net8.0\Week06Array1D-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\obj\Debug\net8.0\Week06Array1D-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\obj\Debug\net8.0\refint\Week06Array1D-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\obj\Debug\net8.0\Week06Array1D-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\obj\Debug\net8.0\Week06Array1D-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Array1D-DSPSb\obj\Debug\net8.0\ref\Week06Array1D-DSPSb.dll

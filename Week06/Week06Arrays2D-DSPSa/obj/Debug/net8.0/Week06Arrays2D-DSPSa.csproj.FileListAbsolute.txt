@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\bin\Debug\net8.0\Week06Arrays2D-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\bin\Debug\net8.0\Week06Arrays2D-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\bin\Debug\net8.0\Week06Arrays2D-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\bin\Debug\net8.0\Week06Arrays2D-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\bin\Debug\net8.0\Week06Arrays2D-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\obj\Debug\net8.0\Week06Arrays2D-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\obj\Debug\net8.0\Week06Arrays2D-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\obj\Debug\net8.0\Week06Arrays2D-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\obj\Debug\net8.0\Week06Arrays2D-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\obj\Debug\net8.0\Week06Arrays2D-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\obj\Debug\net8.0\Week06Arrays2D-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\obj\Debug\net8.0\refint\Week06Arrays2D-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\obj\Debug\net8.0\Week06Arrays2D-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\obj\Debug\net8.0\Week06Arrays2D-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-DSPSa\obj\Debug\net8.0\ref\Week06Arrays2D-DSPSa.dll

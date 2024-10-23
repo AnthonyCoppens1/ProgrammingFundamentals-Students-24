@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\bin\Debug\net8.0\Week06JaggedArrays-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\bin\Debug\net8.0\Week06JaggedArrays-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\bin\Debug\net8.0\Week06JaggedArrays-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\bin\Debug\net8.0\Week06JaggedArrays-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\bin\Debug\net8.0\Week06JaggedArrays-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\obj\Debug\net8.0\Week06JaggedArrays-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\obj\Debug\net8.0\Week06JaggedArrays-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\obj\Debug\net8.0\Week06JaggedArrays-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\obj\Debug\net8.0\Week06JaggedArrays-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\obj\Debug\net8.0\Week06JaggedArrays-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\obj\Debug\net8.0\Week06JaggedArrays-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\obj\Debug\net8.0\refint\Week06JaggedArrays-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\obj\Debug\net8.0\Week06JaggedArrays-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\obj\Debug\net8.0\Week06JaggedArrays-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06JaggedArrays-DSPSa\obj\Debug\net8.0\ref\Week06JaggedArrays-DSPSa.dll
