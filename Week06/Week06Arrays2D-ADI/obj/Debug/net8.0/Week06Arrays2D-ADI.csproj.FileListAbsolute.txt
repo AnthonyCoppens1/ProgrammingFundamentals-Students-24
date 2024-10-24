@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\bin\Debug\net8.0\Week06Arrays2D-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\bin\Debug\net8.0\Week06Arrays2D-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\bin\Debug\net8.0\Week06Arrays2D-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\bin\Debug\net8.0\Week06Arrays2D-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\bin\Debug\net8.0\Week06Arrays2D-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\obj\Debug\net8.0\Week06Arrays2D-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\obj\Debug\net8.0\Week06Arrays2D-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\obj\Debug\net8.0\Week06Arrays2D-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\obj\Debug\net8.0\Week06Arrays2D-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\obj\Debug\net8.0\Week06Arrays2D-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\obj\Debug\net8.0\Week06Arrays2D-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\obj\Debug\net8.0\refint\Week06Arrays2D-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\obj\Debug\net8.0\Week06Arrays2D-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\obj\Debug\net8.0\Week06Arrays2D-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week06\Week06Arrays2D-ADI\obj\Debug\net8.0\ref\Week06Arrays2D-ADI.dll
