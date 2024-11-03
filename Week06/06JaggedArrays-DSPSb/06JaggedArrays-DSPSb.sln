@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06JaggedArrays-DSPSb", "06JaggedArrays-DSPSb.csproj", "{AD87107A-9131-479E-8897-E4E0D47E7CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD87107A-9131-479E-8897-E4E0D47E7CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD87107A-9131-479E-8897-E4E0D47E7CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD87107A-9131-479E-8897-E4E0D47E7CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD87107A-9131-479E-8897-E4E0D47E7CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {887801CC-2163-431E-A8AD-4A4EE932C9DE}
+	EndGlobalSection
+EndGlobal
