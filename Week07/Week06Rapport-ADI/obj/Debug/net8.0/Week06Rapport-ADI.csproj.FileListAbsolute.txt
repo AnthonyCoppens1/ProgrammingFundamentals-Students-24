@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\bin\Debug\net8.0\Week06Rapport-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\bin\Debug\net8.0\Week06Rapport-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\bin\Debug\net8.0\Week06Rapport-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\bin\Debug\net8.0\Week06Rapport-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\bin\Debug\net8.0\Week06Rapport-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\obj\Debug\net8.0\Week06Rapport-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\obj\Debug\net8.0\Week06Rapport-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\obj\Debug\net8.0\Week06Rapport-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\obj\Debug\net8.0\Week06Rapport-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\obj\Debug\net8.0\Week06Rapport-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\obj\Debug\net8.0\Week06Rapport-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\obj\Debug\net8.0\refint\Week06Rapport-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\obj\Debug\net8.0\Week06Rapport-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\obj\Debug\net8.0\Week06Rapport-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week06Rapport-ADI\obj\Debug\net8.0\ref\Week06Rapport-ADI.dll

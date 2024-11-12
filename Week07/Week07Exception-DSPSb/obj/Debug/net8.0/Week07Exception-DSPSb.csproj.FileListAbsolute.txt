@@ -1,0 +1,16 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\bin\Debug\net8.0\english.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\bin\Debug\net8.0\Week07Exception-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\bin\Debug\net8.0\Week07Exception-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\bin\Debug\net8.0\Week07Exception-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\bin\Debug\net8.0\Week07Exception-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\bin\Debug\net8.0\Week07Exception-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\obj\Debug\net8.0\Week07Exception-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\obj\Debug\net8.0\Week07Exception-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\obj\Debug\net8.0\Week07Exception-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\obj\Debug\net8.0\Week07Exception-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\obj\Debug\net8.0\Week07Exception-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\obj\Debug\net8.0\Week07Exception-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\obj\Debug\net8.0\refint\Week07Exception-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\obj\Debug\net8.0\Week07Exception-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\obj\Debug\net8.0\Week07Exception-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week07\Week07Exception-DSPSb\obj\Debug\net8.0\ref\Week07Exception-DSPSb.dll
