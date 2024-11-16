@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week08-RecapFloydstriangle-ADI", "Week08-RecapFloydstriangle-ADI.csproj", "{BC8D4379-B26C-4226-ACB6-E151E2CD67CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8D4379-B26C-4226-ACB6-E151E2CD67CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8D4379-B26C-4226-ACB6-E151E2CD67CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8D4379-B26C-4226-ACB6-E151E2CD67CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8D4379-B26C-4226-ACB6-E151E2CD67CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA24FB1-16B2-464E-A1C6-A306089B5CAE}
+	EndGlobalSection
+EndGlobal

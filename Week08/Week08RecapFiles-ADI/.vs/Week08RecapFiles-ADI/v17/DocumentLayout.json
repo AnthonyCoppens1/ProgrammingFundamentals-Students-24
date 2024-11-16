@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week08\\Week08RecapFiles-ADI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC04ECD0-312B-42C0-9680-779F8F20C406}|Week08RecapFiles-ADI.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week08\\week08recapfiles-adi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC04ECD0-312B-42C0-9680-779F8F20C406}|Week08RecapFiles-ADI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC04ECD0-312B-42C0-9680-779F8F20C406}|Week08RecapFiles-ADI.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week08\\week08recapfiles-adi\\ladygaga.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC04ECD0-312B-42C0-9680-779F8F20C406}|Week08RecapFiles-ADI.csproj|solutionrelative:ladygaga.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC04ECD0-312B-42C0-9680-779F8F20C406}|Week08RecapFiles-ADI.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week08\\week08recapfiles-adi\\eminem.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC04ECD0-312B-42C0-9680-779F8F20C406}|Week08RecapFiles-ADI.csproj|solutionrelative:eminem.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LadyGaga.txt",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week08\\Week08RecapFiles-ADI\\LadyGaga.txt",
+              "RelativeDocumentMoniker": "LadyGaga.txt",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week08\\Week08RecapFiles-ADI\\LadyGaga.txt",
+              "RelativeToolTip": "LadyGaga.txt",
+              "ViewState": "AQIAAJABAAAAAAAAAAAAAJsBAACuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-14T08:18:28.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eminem.txt",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week08\\Week08RecapFiles-ADI\\Eminem.txt",
+              "RelativeDocumentMoniker": "Eminem.txt",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week08\\Week08RecapFiles-ADI\\Eminem.txt",
+              "RelativeToolTip": "Eminem.txt",
+              "ViewState": "AQIAAPsBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-14T08:28:15.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week08\\Week08RecapFiles-ADI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week08\\Week08RecapFiles-ADI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwEsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:15:06.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

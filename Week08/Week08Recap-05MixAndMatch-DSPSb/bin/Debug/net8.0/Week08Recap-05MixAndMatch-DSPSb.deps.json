@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week08Recap-05MixAndMatch-DSPSb/1.0.0": {
+        "runtime": {
+          "Week08Recap-05MixAndMatch-DSPSb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week08Recap-05MixAndMatch-DSPSb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

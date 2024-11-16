@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Week07ExceptionBeforeAndAfter-DSPSa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb5fb0894b235dd9545373bd14a28e7959f71748")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f06556bb4bfbfbbbeeed6ecc49a444ef7067cec6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Week07ExceptionBeforeAndAfter-DSPSa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Week07ExceptionBeforeAndAfter-DSPSa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

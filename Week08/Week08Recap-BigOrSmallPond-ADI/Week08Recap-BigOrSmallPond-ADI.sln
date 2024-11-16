@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week08Recap-BigOrSmallPond-ADI", "Week08Recap-BigOrSmallPond-ADI.csproj", "{FC1DD9E1-00AB-4DC9-BB5E-C425D91A0305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC1DD9E1-00AB-4DC9-BB5E-C425D91A0305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1DD9E1-00AB-4DC9-BB5E-C425D91A0305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1DD9E1-00AB-4DC9-BB5E-C425D91A0305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1DD9E1-00AB-4DC9-BB5E-C425D91A0305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAF6C1A4-A4D9-4E9C-B604-C6CE7540EBC4}
+	EndGlobalSection
+EndGlobal

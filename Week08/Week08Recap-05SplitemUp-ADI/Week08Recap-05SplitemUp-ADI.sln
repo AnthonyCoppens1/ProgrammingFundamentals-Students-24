@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week08Recap-05SplitemUp-ADI", "Week08Recap-05SplitemUp-ADI.csproj", "{AD90E9F9-59EA-4897-BACF-2EA21C26ADAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD90E9F9-59EA-4897-BACF-2EA21C26ADAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD90E9F9-59EA-4897-BACF-2EA21C26ADAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD90E9F9-59EA-4897-BACF-2EA21C26ADAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD90E9F9-59EA-4897-BACF-2EA21C26ADAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C170EE38-CED5-435F-93E3-E4C99E5E137C}
+	EndGlobalSection
+EndGlobal
