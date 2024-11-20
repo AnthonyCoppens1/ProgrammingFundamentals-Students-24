@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\bin\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\bin\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\bin\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\bin\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\bin\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\obj\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\obj\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\obj\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\obj\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\obj\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\obj\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\obj\Debug\net8.0\refint\Week08Recap-04MixItUp-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\obj\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\obj\Debug\net8.0\Week08Recap-04MixItUp-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week08\Week08Recap-04MixItUp-DSPSa\obj\Debug\net8.0\ref\Week08Recap-04MixItUp-DSPSa.dll
