@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\bin\Debug\net8.0\Week09WinkelInventory-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\bin\Debug\net8.0\Week09WinkelInventory-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\bin\Debug\net8.0\Week09WinkelInventory-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\bin\Debug\net8.0\Week09WinkelInventory-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\bin\Debug\net8.0\Week09WinkelInventory-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\obj\Debug\net8.0\Week09WinkelInventory-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\obj\Debug\net8.0\Week09WinkelInventory-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\obj\Debug\net8.0\Week09WinkelInventory-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\obj\Debug\net8.0\Week09WinkelInventory-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\obj\Debug\net8.0\Week09WinkelInventory-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\obj\Debug\net8.0\Week09WinkelInventory-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\obj\Debug\net8.0\refint\Week09WinkelInventory-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\obj\Debug\net8.0\Week09WinkelInventory-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\obj\Debug\net8.0\Week09WinkelInventory-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09WinkelInventory-ADI\obj\Debug\net8.0\ref\Week09WinkelInventory-ADI.dll

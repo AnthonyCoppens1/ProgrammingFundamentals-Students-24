@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\bin\Debug\net8.0\Week09StoreInventory-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\bin\Debug\net8.0\Week09StoreInventory-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\bin\Debug\net8.0\Week09StoreInventory-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\bin\Debug\net8.0\Week09StoreInventory-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\bin\Debug\net8.0\Week09StoreInventory-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\obj\Debug\net8.0\Week09StoreInventory-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\obj\Debug\net8.0\Week09StoreInventory-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\obj\Debug\net8.0\Week09StoreInventory-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\obj\Debug\net8.0\Week09StoreInventory-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\obj\Debug\net8.0\Week09StoreInventory-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\obj\Debug\net8.0\Week09StoreInventory-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\obj\Debug\net8.0\refint\Week09StoreInventory-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\obj\Debug\net8.0\Week09StoreInventory-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\obj\Debug\net8.0\Week09StoreInventory-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StoreInventory-DSPSb\obj\Debug\net8.0\ref\Week09StoreInventory-DSPSb.dll

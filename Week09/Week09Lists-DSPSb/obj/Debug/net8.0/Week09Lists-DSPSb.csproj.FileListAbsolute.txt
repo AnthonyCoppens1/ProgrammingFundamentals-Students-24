@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\bin\Debug\net8.0\Week09Lists-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\bin\Debug\net8.0\Week09Lists-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\bin\Debug\net8.0\Week09Lists-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\bin\Debug\net8.0\Week09Lists-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\bin\Debug\net8.0\Week09Lists-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\obj\Debug\net8.0\Week09Lists-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\obj\Debug\net8.0\Week09Lists-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\obj\Debug\net8.0\Week09Lists-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\obj\Debug\net8.0\Week09Lists-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\obj\Debug\net8.0\Week09Lists-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\obj\Debug\net8.0\Week09Lists-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\obj\Debug\net8.0\refint\Week09Lists-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\obj\Debug\net8.0\Week09Lists-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\obj\Debug\net8.0\Week09Lists-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Lists-DSPSb\obj\Debug\net8.0\ref\Week09Lists-DSPSb.dll

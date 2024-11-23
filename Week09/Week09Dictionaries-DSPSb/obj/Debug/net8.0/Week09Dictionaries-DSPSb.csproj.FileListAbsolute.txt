@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\bin\Debug\net8.0\Week09Dictionaries-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\bin\Debug\net8.0\Week09Dictionaries-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\bin\Debug\net8.0\Week09Dictionaries-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\bin\Debug\net8.0\Week09Dictionaries-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\bin\Debug\net8.0\Week09Dictionaries-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\obj\Debug\net8.0\Week09Dictionaries-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\obj\Debug\net8.0\Week09Dictionaries-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\obj\Debug\net8.0\Week09Dictionaries-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\obj\Debug\net8.0\Week09Dictionaries-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\obj\Debug\net8.0\Week09Dictionaries-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\obj\Debug\net8.0\Week09Dictionaries-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\obj\Debug\net8.0\refint\Week09Dictionaries-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\obj\Debug\net8.0\Week09Dictionaries-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\obj\Debug\net8.0\Week09Dictionaries-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09Dictionaries-DSPSb\obj\Debug\net8.0\ref\Week09Dictionaries-DSPSb.dll

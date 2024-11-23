@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09StudentDatabase-ADI", "09StudentDatabase-ADI.csproj", "{F98F7BF9-4547-435C-94C5-22DD9888B7F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98F7BF9-4547-435C-94C5-22DD9888B7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98F7BF9-4547-435C-94C5-22DD9888B7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98F7BF9-4547-435C-94C5-22DD9888B7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98F7BF9-4547-435C-94C5-22DD9888B7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2461F25-1906-475F-88F6-459E084D0980}
+	EndGlobalSection
+EndGlobal
