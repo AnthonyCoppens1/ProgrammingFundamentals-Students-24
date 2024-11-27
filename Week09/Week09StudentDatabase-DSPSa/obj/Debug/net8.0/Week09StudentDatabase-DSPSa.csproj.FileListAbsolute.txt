@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\bin\Debug\net8.0\Week09StudentDatabase-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\bin\Debug\net8.0\Week09StudentDatabase-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\bin\Debug\net8.0\Week09StudentDatabase-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\bin\Debug\net8.0\Week09StudentDatabase-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\bin\Debug\net8.0\Week09StudentDatabase-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\obj\Debug\net8.0\Week09StudentDatabase-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\obj\Debug\net8.0\Week09StudentDatabase-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\obj\Debug\net8.0\Week09StudentDatabase-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\obj\Debug\net8.0\Week09StudentDatabase-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\obj\Debug\net8.0\Week09StudentDatabase-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\obj\Debug\net8.0\Week09StudentDatabase-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\obj\Debug\net8.0\refint\Week09StudentDatabase-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\obj\Debug\net8.0\Week09StudentDatabase-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\obj\Debug\net8.0\Week09StudentDatabase-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week09\Week09StudentDatabase-DSPSa\obj\Debug\net8.0\ref\Week09StudentDatabase-DSPSa.dll

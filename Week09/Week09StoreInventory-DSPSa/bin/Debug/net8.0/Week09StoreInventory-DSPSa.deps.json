@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week09StoreInventory-DSPSa/1.0.0": {
+        "runtime": {
+          "Week09StoreInventory-DSPSa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week09StoreInventory-DSPSa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
