@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\bin\Debug\net8.0\Week10-Exercises-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\bin\Debug\net8.0\Week10-Exercises-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\bin\Debug\net8.0\Week10-Exercises-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\bin\Debug\net8.0\Week10-Exercises-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\bin\Debug\net8.0\Week10-Exercises-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\obj\Debug\net8.0\Week10-Exercises-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\obj\Debug\net8.0\Week10-Exercises-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\obj\Debug\net8.0\Week10-Exercises-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\obj\Debug\net8.0\Week10-Exercises-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\obj\Debug\net8.0\Week10-Exercises-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\obj\Debug\net8.0\Week10-Exercises-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\obj\Debug\net8.0\refint\Week10-Exercises-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\obj\Debug\net8.0\Week10-Exercises-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\obj\Debug\net8.0\Week10-Exercises-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Exercises-DSPSb\obj\Debug\net8.0\ref\Week10-Exercises-DSPSb.dll

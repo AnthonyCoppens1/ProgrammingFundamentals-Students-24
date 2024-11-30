@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\bin\Debug\net8.0\Week10-Oefeningen-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\bin\Debug\net8.0\Week10-Oefeningen-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\bin\Debug\net8.0\Week10-Oefeningen-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\bin\Debug\net8.0\Week10-Oefeningen-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\bin\Debug\net8.0\Week10-Oefeningen-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\obj\Debug\net8.0\Week10-Oefeningen-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\obj\Debug\net8.0\Week10-Oefeningen-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\obj\Debug\net8.0\Week10-Oefeningen-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\obj\Debug\net8.0\Week10-Oefeningen-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\obj\Debug\net8.0\Week10-Oefeningen-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\obj\Debug\net8.0\Week10-Oefeningen-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\obj\Debug\net8.0\refint\Week10-Oefeningen-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\obj\Debug\net8.0\Week10-Oefeningen-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\obj\Debug\net8.0\Week10-Oefeningen-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week10\Week10-Oefeningen-ADI\obj\Debug\net8.0\ref\Week10-Oefeningen-ADI.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week10Methods-ADI/1.0.0": {
+        "runtime": {
+          "Week10Methods-ADI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week10Methods-ADI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
