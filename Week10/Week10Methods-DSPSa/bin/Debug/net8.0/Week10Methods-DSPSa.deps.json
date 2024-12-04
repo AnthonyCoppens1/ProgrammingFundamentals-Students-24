@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week10Methods-DSPSa/1.0.0": {
+        "runtime": {
+          "Week10Methods-DSPSa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week10Methods-DSPSa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
