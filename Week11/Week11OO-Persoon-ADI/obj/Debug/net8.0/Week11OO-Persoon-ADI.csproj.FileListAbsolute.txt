@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\bin\Debug\net8.0\Week11OO-Persoon-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\bin\Debug\net8.0\Week11OO-Persoon-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\bin\Debug\net8.0\Week11OO-Persoon-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\bin\Debug\net8.0\Week11OO-Persoon-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\bin\Debug\net8.0\Week11OO-Persoon-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\obj\Debug\net8.0\Week11OO-Persoon-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\obj\Debug\net8.0\Week11OO-Persoon-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\obj\Debug\net8.0\Week11OO-Persoon-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\obj\Debug\net8.0\Week11OO-Persoon-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\obj\Debug\net8.0\Week11OO-Persoon-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\obj\Debug\net8.0\Week11OO-Persoon-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\obj\Debug\net8.0\refint\Week11OO-Persoon-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\obj\Debug\net8.0\Week11OO-Persoon-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\obj\Debug\net8.0\Week11OO-Persoon-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11OO-Persoon-ADI\obj\Debug\net8.0\ref\Week11OO-Persoon-ADI.dll

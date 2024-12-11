@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11OO-Persoon-ADI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C18F4-BA70-49BA-A2C5-E093E52E2E35}|Week11OO-Persoon-ADI.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week11\\week11oo-persoon-adi\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89C18F4-BA70-49BA-A2C5-E093E52E2E35}|Week11OO-Persoon-ADI.csproj|solutionrelative:persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89C18F4-BA70-49BA-A2C5-E093E52E2E35}|Week11OO-Persoon-ADI.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week11\\week11oo-persoon-adi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89C18F4-BA70-49BA-A2C5-E093E52E2E35}|Week11OO-Persoon-ADI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persoon.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11OO-Persoon-ADI\\Persoon.cs",
+              "RelativeDocumentMoniker": "Persoon.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11OO-Persoon-ADI\\Persoon.cs",
+              "RelativeToolTip": "Persoon.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:56:23.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11OO-Persoon-ADI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11OO-Persoon-ADI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:54:10.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\bin\Debug\net8.0\Week11-RecapMethods-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\bin\Debug\net8.0\Week11-RecapMethods-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\bin\Debug\net8.0\Week11-RecapMethods-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\bin\Debug\net8.0\Week11-RecapMethods-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\bin\Debug\net8.0\Week11-RecapMethods-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\obj\Debug\net8.0\Week11-RecapMethods-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\obj\Debug\net8.0\Week11-RecapMethods-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\obj\Debug\net8.0\Week11-RecapMethods-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\obj\Debug\net8.0\Week11-RecapMethods-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\obj\Debug\net8.0\Week11-RecapMethods-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\obj\Debug\net8.0\Week11-RecapMethods-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\obj\Debug\net8.0\refint\Week11-RecapMethods-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\obj\Debug\net8.0\Week11-RecapMethods-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\obj\Debug\net8.0\Week11-RecapMethods-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-RecapMethods-DSPSb\obj\Debug\net8.0\ref\Week11-RecapMethods-DSPSb.dll

@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\bin\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\bin\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\bin\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\bin\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\bin\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\obj\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\obj\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\obj\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\obj\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\obj\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\obj\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\obj\Debug\net8.0\refint\Week11-OO-Ziekenhuis-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\obj\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\obj\Debug\net8.0\Week11-OO-Ziekenhuis-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Ziekenhuis-ADI\obj\Debug\net8.0\ref\Week11-OO-Ziekenhuis-ADI.dll

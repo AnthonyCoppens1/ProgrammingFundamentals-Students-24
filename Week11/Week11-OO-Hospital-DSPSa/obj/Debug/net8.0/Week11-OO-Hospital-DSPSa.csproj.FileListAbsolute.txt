@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\bin\Debug\net8.0\Week11-OO-Hospital-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\bin\Debug\net8.0\Week11-OO-Hospital-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\bin\Debug\net8.0\Week11-OO-Hospital-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\bin\Debug\net8.0\Week11-OO-Hospital-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\bin\Debug\net8.0\Week11-OO-Hospital-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\obj\Debug\net8.0\Week11-OO-Hospital-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\obj\Debug\net8.0\Week11-OO-Hospital-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\obj\Debug\net8.0\Week11-OO-Hospital-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\obj\Debug\net8.0\Week11-OO-Hospital-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\obj\Debug\net8.0\Week11-OO-Hospital-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\obj\Debug\net8.0\Week11-OO-Hospital-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\obj\Debug\net8.0\refint\Week11-OO-Hospital-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\obj\Debug\net8.0\Week11-OO-Hospital-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\obj\Debug\net8.0\Week11-OO-Hospital-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Hospital-DSPSa\obj\Debug\net8.0\ref\Week11-OO-Hospital-DSPSa.dll

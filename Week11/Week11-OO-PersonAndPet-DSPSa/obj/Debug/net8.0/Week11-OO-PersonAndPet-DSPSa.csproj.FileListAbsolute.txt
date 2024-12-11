@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\bin\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\bin\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\bin\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\bin\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\bin\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\obj\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\obj\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\obj\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\obj\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\obj\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\obj\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\obj\Debug\net8.0\refint\Week11-OO-PersonAndPet-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\obj\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\obj\Debug\net8.0\Week11-OO-PersonAndPet-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-PersonAndPet-DSPSa\obj\Debug\net8.0\ref\Week11-OO-PersonAndPet-DSPSa.dll

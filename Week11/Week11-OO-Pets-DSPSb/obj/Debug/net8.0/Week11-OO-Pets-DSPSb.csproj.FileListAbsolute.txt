@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\bin\Debug\net8.0\Week11-OO-Pets-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\bin\Debug\net8.0\Week11-OO-Pets-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\bin\Debug\net8.0\Week11-OO-Pets-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\bin\Debug\net8.0\Week11-OO-Pets-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\bin\Debug\net8.0\Week11-OO-Pets-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\obj\Debug\net8.0\Week11-OO-Pets-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\obj\Debug\net8.0\Week11-OO-Pets-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\obj\Debug\net8.0\Week11-OO-Pets-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\obj\Debug\net8.0\Week11-OO-Pets-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\obj\Debug\net8.0\Week11-OO-Pets-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\obj\Debug\net8.0\Week11-OO-Pets-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\obj\Debug\net8.0\refint\Week11-OO-Pets-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\obj\Debug\net8.0\Week11-OO-Pets-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\obj\Debug\net8.0\Week11-OO-Pets-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week11\Week11-OO-Pets-DSPSb\obj\Debug\net8.0\ref\Week11-OO-Pets-DSPSb.dll
