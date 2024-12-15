@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Week11-OO-Ziekenhuis-ADI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+992906cd33e948d6cdf3accf8d32d4ebb55c694f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5b9a3d5b85541a6eff3d03f426c2b95eef7e602")]
 [assembly: System.Reflection.AssemblyProductAttribute("Week11-OO-Ziekenhuis-ADI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Week11-OO-Ziekenhuis-ADI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

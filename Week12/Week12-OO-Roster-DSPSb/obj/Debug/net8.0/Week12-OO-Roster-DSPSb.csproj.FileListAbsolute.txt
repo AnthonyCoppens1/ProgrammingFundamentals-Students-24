@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\bin\Debug\net8.0\Week12-OO-Roster-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\bin\Debug\net8.0\Week12-OO-Roster-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\bin\Debug\net8.0\Week12-OO-Roster-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\bin\Debug\net8.0\Week12-OO-Roster-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\bin\Debug\net8.0\Week12-OO-Roster-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\obj\Debug\net8.0\Week12-OO-Roster-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\obj\Debug\net8.0\Week12-OO-Roster-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\obj\Debug\net8.0\Week12-OO-Roster-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\obj\Debug\net8.0\Week12-OO-Roster-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\obj\Debug\net8.0\Week12-OO-Roster-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\obj\Debug\net8.0\Week12-OO-Roster-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\obj\Debug\net8.0\refint\Week12-OO-Roster-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\obj\Debug\net8.0\Week12-OO-Roster-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\obj\Debug\net8.0\Week12-OO-Roster-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Roster-DSPSb\obj\Debug\net8.0\ref\Week12-OO-Roster-DSPSb.dll

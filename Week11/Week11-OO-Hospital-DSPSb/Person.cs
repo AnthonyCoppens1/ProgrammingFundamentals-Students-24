@@ -54,9 +54,9 @@ namespace Week11_OO_Hospital_DSPSb
 
     public class Doctor : Person
     {
-        public string Specialty { get; set; }
+        public Spec Specialty { get; set; }
 
-        public Doctor(string name, DateOnly birthday, string specialty) : base(name, birthday)
+        public Doctor(string name, DateOnly birthday, Spec specialty) : base(name, birthday)
         {
             Specialty = specialty;
         }
@@ -66,11 +66,22 @@ namespace Week11_OO_Hospital_DSPSb
         }
     }
 
+    public enum Spec
+    {
+        Feet,
+        Eyes,
+        Teeth,
+        Back,
+        Hip,
+        Cardiovascular,
+        DisabledRappers
+    }
+
     public class Nurse : Person
     {
-        public string Department { get; set; }
+        public Dep Department { get; set; }
 
-        public Nurse(string name, DateOnly birthday, string department) : base(name, birthday)
+        public Nurse(string name, DateOnly birthday, Dep department) : base(name, birthday)
         {
             Department = department;
         }
@@ -78,5 +89,15 @@ namespace Week11_OO_Hospital_DSPSb
         {
             return $"You can find Nurse {Name} in {Department}";
         }
+    }
+
+    public enum Dep
+    {
+        Cardiology,
+        Neurology,
+        Geriatrics,
+        Pediatrics,
+        Emergency
+
     }
 }

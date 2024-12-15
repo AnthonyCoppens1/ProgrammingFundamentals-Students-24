@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week12\\Week12-OO-BSP-ADI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0226119F-00DF-4686-A7F3-2AB2CC05201B}|Week12-OO-BSP-ADI.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week12\\week12-oo-bsp-adi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0226119F-00DF-4686-A7F3-2AB2CC05201B}|Week12-OO-BSP-ADI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0226119F-00DF-4686-A7F3-2AB2CC05201B}|Week12-OO-BSP-ADI.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week12\\week12-oo-bsp-adi\\bsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0226119F-00DF-4686-A7F3-2AB2CC05201B}|Week12-OO-BSP-ADI.csproj|solutionrelative:bsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BSP.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week12\\Week12-OO-BSP-ADI\\BSP.cs",
+              "RelativeDocumentMoniker": "BSP.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week12\\Week12-OO-BSP-ADI\\BSP.cs",
+              "RelativeToolTip": "BSP.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:04:06.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week12\\Week12-OO-BSP-ADI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week12\\Week12-OO-BSP-ADI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:03:42.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

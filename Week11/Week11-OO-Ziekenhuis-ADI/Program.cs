@@ -6,10 +6,10 @@ namespace Week11_OO_Ziekenhuis_ADI
     {
         static void Main(string[] args)
         {
-            Dokter Noa = new Dokter("Noa Lebegge", new DateOnly(2005, 06, 28), "Dokter");
+            Dokter Noa = new Dokter("Noa Lebegge", new DateOnly(2005, 06, 28), Specialisatie.GeenIdee);
             Patient Anthony = new Patient("Anthony Coppens", new DateOnly(1995, 07, 31), "Drankverslaving");
             Patient Elke = new Patient("Elke Boonen", new DateOnly(1980, 04, 23), "Intoxicatie dmv Gin");
-            Dokter Collin = new Dokter("Collin Van der Vorst", new DateOnly(1991, 04, 16), "Voeten");
+            Dokter Collin = new Dokter("Collin Van der Vorst", new DateOnly(1991, 04, 16), Specialisatie.Voeten);
 
             Console.WriteLine(Collin.Naam);
             Console.WriteLine($"Elke: {Elke.Rol}: {Elke.Bloedgroep}");
@@ -37,6 +37,22 @@ namespace Week11_OO_Ziekenhuis_ADI
                 }
                 Console.WriteLine();
             }
+
+            List<Persoon> mensen = new List<Persoon>();
+            mensen.Add(Anthony);
+            mensen.Add(Elke);
+            mensen.Add(Collin);
+            mensen.Add(Yorbe);
+            mensen.Add(Noa);
+
+
+            Ziekenhuis AZSintMaarten = new Ziekenhuis("AZ Sint-Maarten", mensen);
+            Dokter Bea = new Dokter("Bea", new DateOnly(1975, 11, 12), Specialisatie.Dermatologie);
+            AZSintMaarten.VoegPersoonToe(Bea);
+
+            Console.WriteLine(AZSintMaarten);
+            
+
 
         }
     }

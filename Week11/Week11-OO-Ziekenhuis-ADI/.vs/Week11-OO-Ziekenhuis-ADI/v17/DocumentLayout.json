@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11-OO-Ziekenhuis-ADI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9D5B83B-70D1-4270-A3A9-7FC9C384DDE4}|Week11-OO-Ziekenhuis-ADI.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week11\\week11-oo-ziekenhuis-adi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9D5B83B-70D1-4270-A3A9-7FC9C384DDE4}|Week11-OO-Ziekenhuis-ADI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9D5B83B-70D1-4270-A3A9-7FC9C384DDE4}|Week11-OO-Ziekenhuis-ADI.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week11\\week11-oo-ziekenhuis-adi\\ziekenhuis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9D5B83B-70D1-4270-A3A9-7FC9C384DDE4}|Week11-OO-Ziekenhuis-ADI.csproj|solutionrelative:ziekenhuis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D5B83B-70D1-4270-A3A9-7FC9C384DDE4}|Week11-OO-Ziekenhuis-ADI.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week11\\week11-oo-ziekenhuis-adi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D5B83B-70D1-4270-A3A9-7FC9C384DDE4}|Week11-OO-Ziekenhuis-ADI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Ziekenhuis.cs",
               "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11-OO-Ziekenhuis-ADI\\Ziekenhuis.cs",
               "RelativeDocumentMoniker": "Ziekenhuis.cs",
               "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11-OO-Ziekenhuis-ADI\\Ziekenhuis.cs",
               "RelativeToolTip": "Ziekenhuis.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAQwDoAAAA6AAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAUwE0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T10:24:25.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11-OO-Ziekenhuis-ADI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11-OO-Ziekenhuis-ADI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAANAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDEAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T10:21:25.203Z",
               "EditorCaption": ""

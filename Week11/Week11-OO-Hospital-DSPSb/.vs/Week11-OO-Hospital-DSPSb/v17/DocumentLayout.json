@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D9BF7D8-B9EE-4F83-BF74-D6609D78D789}|Week11-OO-Hospital-DSPSb.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week11\\week11-oo-hospital-dspsb\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D9BF7D8-B9EE-4F83-BF74-D6609D78D789}|Week11-OO-Hospital-DSPSb.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9BF7D8-B9EE-4F83-BF74-D6609D78D789}|Week11-OO-Hospital-DSPSb.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\programmingfundamentals\\programmingfundamentals-students-24\\week11\\week11-oo-hospital-dspsb\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9BF7D8-B9EE-4F83-BF74-D6609D78D789}|Week11-OO-Hospital-DSPSb.csproj|solutionrelative:hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11-OO-Hospital-DSPSb\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11-OO-Hospital-DSPSb\\Hospital.cs",
+              "RelativeToolTip": "Hospital.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwEUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:21:37.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +49,7 @@
               "RelativeDocumentMoniker": "Person.cs",
               "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11-OO-Hospital-DSPSb\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvwgAAAAUAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAqwEwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:00:05.667Z",
               "EditorCaption": ""
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-24\\Week11\\Week11-OO-Hospital-DSPSb\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAASwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T12:55:41.695Z",
               "EditorCaption": ""

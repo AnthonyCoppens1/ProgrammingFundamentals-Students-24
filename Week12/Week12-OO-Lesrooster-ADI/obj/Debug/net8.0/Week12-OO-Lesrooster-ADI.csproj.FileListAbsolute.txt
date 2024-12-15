@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\obj\Debug\net8.0\Week12-OO-Lesrooster-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\obj\Debug\net8.0\Week12-OO-Lesrooster-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\obj\Debug\net8.0\Week12-OO-Lesrooster-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\obj\Debug\net8.0\Week12-OO-Lesrooster-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\obj\Debug\net8.0\Week12-OO-Lesrooster-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\bin\Debug\net8.0\Week12-OO-Lesrooster-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\bin\Debug\net8.0\Week12-OO-Lesrooster-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\bin\Debug\net8.0\Week12-OO-Lesrooster-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\bin\Debug\net8.0\Week12-OO-Lesrooster-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\bin\Debug\net8.0\Week12-OO-Lesrooster-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\obj\Debug\net8.0\Week12-OO-Lesrooster-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\obj\Debug\net8.0\refint\Week12-OO-Lesrooster-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\obj\Debug\net8.0\Week12-OO-Lesrooster-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\obj\Debug\net8.0\Week12-OO-Lesrooster-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-Lesrooster-ADI\obj\Debug\net8.0\ref\Week12-OO-Lesrooster-ADI.dll
