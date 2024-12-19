@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week12-OO-Roster-DSPSa/1.0.0": {
+        "runtime": {
+          "Week12-OO-Roster-DSPSa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week12-OO-Roster-DSPSa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

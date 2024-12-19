@@ -6,6 +6,26 @@ using System.Threading.Tasks;
 
 namespace Week11_OO_Hospital_DSPSa
 {
+    public enum field
+    {
+        Radiology,
+        Pneumonology,
+        Meds,
+        Dermatology,
+        Gastrology,
+        Cardiology,
+        WeirdFeet
+    }
+
+    public enum dept
+    {
+        Emergency,
+        Surgery,
+        Dementia,
+        Geriatrics,
+        Pediatrics
+    }
+
     public abstract class Person
     {
         public string Name { get; set; }
@@ -44,9 +64,9 @@ namespace Week11_OO_Hospital_DSPSa
 
     public class Doctor : Person
     {
-        public string FieldOfStudy { get; set; }
+        public field FieldOfStudy { get; set; }
 
-        public Doctor(string name, DateOnly birthday, string fieldofstudy) : base(name, birthday)
+        public Doctor(string name, DateOnly birthday, field fieldofstudy) : base(name, birthday)
         {
             FieldOfStudy = fieldofstudy;
         }
@@ -58,9 +78,9 @@ namespace Week11_OO_Hospital_DSPSa
 
     public class Nurse : Person
     {
-        public string Department { get; set; }
+        public dept Department { get; set; }
 
-        public Nurse(string name, DateOnly birthday, string department) : base(name, birthday)
+        public Nurse(string name, DateOnly birthday, dept department) : base(name, birthday)
         {
             Department = department;
         }

@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\bin\Debug\net8.0\Week12-OO-RPS-DSPSa.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\bin\Debug\net8.0\Week12-OO-RPS-DSPSa.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\bin\Debug\net8.0\Week12-OO-RPS-DSPSa.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\bin\Debug\net8.0\Week12-OO-RPS-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\bin\Debug\net8.0\Week12-OO-RPS-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\obj\Debug\net8.0\Week12-OO-RPS-DSPSa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\obj\Debug\net8.0\Week12-OO-RPS-DSPSa.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\obj\Debug\net8.0\Week12-OO-RPS-DSPSa.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\obj\Debug\net8.0\Week12-OO-RPS-DSPSa.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\obj\Debug\net8.0\Week12-OO-RPS-DSPSa.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\obj\Debug\net8.0\Week12-OO-RPS-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\obj\Debug\net8.0\refint\Week12-OO-RPS-DSPSa.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\obj\Debug\net8.0\Week12-OO-RPS-DSPSa.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\obj\Debug\net8.0\Week12-OO-RPS-DSPSa.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week12\Week12-OO-RPS-DSPSa\obj\Debug\net8.0\ref\Week12-OO-RPS-DSPSa.dll
