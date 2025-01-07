@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\bin\Debug\net8.0\Week13-Recap-DSPS.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\bin\Debug\net8.0\Week13-Recap-DSPS.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\bin\Debug\net8.0\Week13-Recap-DSPS.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\bin\Debug\net8.0\Week13-Recap-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\bin\Debug\net8.0\Week13-Recap-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\obj\Debug\net8.0\Week13-Recap-DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\obj\Debug\net8.0\Week13-Recap-DSPS.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\obj\Debug\net8.0\Week13-Recap-DSPS.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\obj\Debug\net8.0\Week13-Recap-DSPS.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\obj\Debug\net8.0\Week13-Recap-DSPS.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\obj\Debug\net8.0\Week13-Recap-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\obj\Debug\net8.0\refint\Week13-Recap-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\obj\Debug\net8.0\Week13-Recap-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\obj\Debug\net8.0\Week13-Recap-DSPS.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-Recap-DSPS\obj\Debug\net8.0\ref\Week13-Recap-DSPS.dll

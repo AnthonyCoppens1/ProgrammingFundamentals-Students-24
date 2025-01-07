@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\bin\Debug\net8.0\Week13-EindeSemester-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\bin\Debug\net8.0\Week13-EindeSemester-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\bin\Debug\net8.0\Week13-EindeSemester-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\bin\Debug\net8.0\Week13-EindeSemester-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\bin\Debug\net8.0\Week13-EindeSemester-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\obj\Debug\net8.0\Week13-EindeSemester-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\obj\Debug\net8.0\Week13-EindeSemester-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\obj\Debug\net8.0\Week13-EindeSemester-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\obj\Debug\net8.0\Week13-EindeSemester-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\obj\Debug\net8.0\Week13-EindeSemester-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\obj\Debug\net8.0\Week13-EindeSemester-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\obj\Debug\net8.0\refint\Week13-EindeSemester-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\obj\Debug\net8.0\Week13-EindeSemester-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\obj\Debug\net8.0\Week13-EindeSemester-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-24\Week13\Week13-EindeSemester-ADI\obj\Debug\net8.0\ref\Week13-EindeSemester-ADI.dll
